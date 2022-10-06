@@ -1,4 +1,17 @@
-TripleDNet: Exploring Depth Estimation with Self-Supervised Representation Learning
+This is offical codes TripleDNet: Exploring Depth Estimation with Self-Supervised Representation Learning
+
+If you find our work useful in your research please consider citing our paper:
+```
+@inproceedings{triplednetdepth,
+  title={TripleDNet: Exploring Depth Estimation with Self-Supervised Representation Learning},
+  author={Senturk, Ufuk Umut and Akar, Arif and Ikizler-Cinbis, Nazli},
+  booktitle={BMVC},
+  year={2022}
+}
+```
+
+## Models
+Coming soon!
 
 ## Setup
 
@@ -47,3 +60,8 @@ or undistributed learning
 ```
 
 Here nproc_per_node refers to GPU number you want to use, which is 4 in our case.
+
+## Acknowledgement
+
+This repository is based on [FeatDepth](https://github.com/sconlyshootery/FeatDepth). 
+We thank authors for their contributions. 
